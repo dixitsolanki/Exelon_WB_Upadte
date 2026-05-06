@@ -4,5 +4,4 @@
     <url>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/download/v3.0.0.0/Auto.Update.Test.exe</url>
     <changelog>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/tag/v3.0.0.0</changelog>
     <mandatory>true</mandatory>
-    <args>/quiet /norestart</args> 
-</item>
+    </item>
