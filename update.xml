@@ -3,6 +3,6 @@
     <version>3.0.0.4</version>
     <url>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/download/v3.0.0.4/Auto.Update.Test.exe</url>
     <changelog>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/tag/v3.0.0.4</changelog>
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
     <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART</args>
     </item>
