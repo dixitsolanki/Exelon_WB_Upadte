@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.0.0.5</version>
-    <url>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/download/v3.0.0.5/Auto.Update.Test.exe</url>
-    <changelog>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/tag/v3.0.0.5</changelog>
+    <version>6.5.0.1</version>
+    <url>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/download/v6.5.0.1/Exelon.Weigh.Bridge.Application.Update.exe</url>
+    <changelog>https://github.com/dixitsolanki/Exelon_WB_Upadte/releases/tag/v6.5.0.1</changelog>
     <mandatory>false</mandatory>
     <args>/VERYSILENT /SUPPRESSMSGBOXES /NORESTART</args>
     </item>
